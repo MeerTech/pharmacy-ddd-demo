@@ -1,0 +1,27 @@
+{
+  "name": "pharmacy-ddd-demo",
+  "version": "1.0.0",
+  "description": "Domain-Driven Design demonstration for pharmacy insurance claims processing",
+  "main": "test/ClaimTest.js",
+  "scripts": {
+    "demo": "node test/ClaimTest.js",
+    "test": "echo \"Run: node test/ClaimTest.js\" && exit 0"
+  },
+  "keywords": [
+    "ddd",
+    "domain-driven-design",
+    "architecture",
+    "insurance",
+    "pharmacy",
+    "claims",
+    "aggregate",
+    "value-object",
+    "domain-event"
+  ],
+  "author": "Mirghani Abdelhadi",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MeerTech/pharmacy-ddd-demo.git"
+  }
+}
