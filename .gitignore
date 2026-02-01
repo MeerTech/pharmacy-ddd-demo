@@ -2,3 +2,4 @@ verify-generic.sh
 verify-files.sh
 test-ddd.sh
 *.sh
+*.html
